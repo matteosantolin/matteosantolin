@@ -1,4 +1,4 @@
-# Hi, I'm Matteo 👋
+# Hey, I'm Matteo 👋
 
 **Management Engineering student** · ICT & Data Management · Based in Italy
 
