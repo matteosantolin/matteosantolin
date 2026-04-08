@@ -10,7 +10,7 @@ I'm passionate about AI and try to stay on top of what's happening in the field.
 
 ### What I'm into
 
-- 🤖 Artificial Intelligence — following the space closely, experimenting hands-on
+- 🤖 Artificial Intelligence
 - 📊 Data Management & analytics
 - 🛠️ Building full-stack apps with modern web technologies
 - 💹 Personal finance & investment tracking
