@@ -1,7 +1,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Matteo
 
 **Manufacturing Intelligence Engineer** — Elcam Medical Italy S.p.a.<br>
-**Management Engineering student** · ICT & Data Management · Based in Italy
+**Management Engineering student** · ICT & Data Management · Università degli Studi di Modena e Reggio Emilia.
 
 I'm passionate about AI and try to stay on top of what's happening in the field. I recently started building apps and tools — both for personal projects and at work.
 
