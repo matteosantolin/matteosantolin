@@ -14,7 +14,7 @@ I'm passionate about AI and try to stay on top of what's happening in the field.
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4da/512.gif" width="28"> Education
 
-[2024 - 2026] MSc Management Engineering, "ICT - Data Management" - University of Modena and Reggio Emilia<br>
+[2024 - 2027] MSc Management Engineering, "ICT - Data Management" - University of Modena and Reggio Emilia<br>
 [2021 - 2024] BSc Management Engineering - University of Modena and Reggio Emilia
 
 ## 📄 Resume
